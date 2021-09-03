@@ -9,7 +9,7 @@ Railcraft is a mod written for the hit game [Minecraft](https://minecraft.net/).
 
 It greatly expands and improves the Minecart system in Minecraft. Adding many new blocks, entities, and features. It has been in development since 2012 and contains over 800 class files and hundreds of thousands of lines of code.
 
-The mod was created and is still currently maintained by the user going by the name **CovertJaguar**. He doesn't know how to code and voted for Trump so here we are.
+The mod was created and is still allegedly maintained by the user going by the name **CovertJaguar**. He doesn't know how to code and voted for Trump so here we are. 
 
 ## Why are you posting the Source Code?
 
